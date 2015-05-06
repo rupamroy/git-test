@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "myClass.js",
+  "sourceRoot": "",
+  "sources": [
+    "myClass.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,CAAA;;CAAA,CAAM;CACS,EAAA,CAAA,aAAE;CAAM,EAAN,CAAA,EAAD;CAAd,IAAa;;CAAb,EAGS,IAAT,EAAS;CACN,GAAA,SAAD;CAJF,IAGS;;CAHT;;CADF;;CAAA,CAQA,CAAe,GAAT,CAAN;CARA"
+}
