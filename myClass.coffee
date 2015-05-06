@@ -5,5 +5,8 @@ class myClass
   getProp: ()->
     @prop
 
+  setProp: (value)->
+    @prop=value
+
 
 module.exports=myClass;

@@ -11,6 +11,10 @@
       return this.prop;
     };
 
+    myClass.prototype.setProp = function(value) {
+      return this.prop = value;
+    };
+
     return myClass;
 
   })();
