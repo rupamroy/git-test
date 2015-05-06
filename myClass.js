@@ -7,6 +7,10 @@
       this.prop = prop;
     }
 
+    myClass.prototype.changeValue = function(val) {
+      return this.prop = val;
+    };
+
     myClass.prototype.getProp = function() {
       return this.prop;
     };

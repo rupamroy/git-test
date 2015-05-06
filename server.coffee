@@ -5,4 +5,6 @@ myclass2=new MyClass(5678);
 
 console.log(myclass1.getProp())
 console.log(myclass2.getProp())
+myclass2.changeValue(7765);
+console.log(myclass2.getProp());
 
